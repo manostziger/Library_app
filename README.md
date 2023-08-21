@@ -100,6 +100,21 @@
 
 <img width="1680" alt="Screenshot 2023-08-21 at 1 28 35 PM" src="https://github.com/manostziger/YpoxreotikiErgasiaSept23_E18158_TZIGKOUNAKIS_EMMANOYIL/assets/141725868/292ebc7e-b88d-4782-906f-c82b25494c20">
 
+# Flask Container:
+Για το conteiner του web service, αρχικά δημιουργήθηκε ένα image για το αρχείο app.py. Για να δημιουργήσουμε το image από το Dockerfile χρησιμοποιήθηκε η εντολή:
+  ```sh
+       docker build -t flask_image .
+  ```
+## Dockerfile:
+Για το image toυ web service, αρχικά εγκαταστάθηκαν τα απαραίτητα εργαλεία, python3, flask και pymongo.
+
+## Containerization
+Για το τελικό στάδιο του containerization πρέπει να συνδεθούν τα containers του web service και του MongoDB. Για αυτο δημιουργήθηκε το αρχείο docker-compose.yml.
+
+
+<img width="1680" alt="Screenshot 2023-08-21 at 1 32 37 PM" src="https://github.com/manostziger/YpoxreotikiErgasiaSept23_E18158_TZIGKOUNAKIS_EMMANOYIL/assets/141725868/0b5d38c5-fb46-4c33-9727-d388af786745">
+
+
 
 
 
