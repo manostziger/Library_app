@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "64ced391ece1f0fedd3f16b5"
+  },
+  "username": "manos",
+  "surname": "tzigkounakis",
+  "email": "tzigkounakismanolis@gmail.com",
+  "password": "1234",
+  "date_of_birth": "14/08/2000"
+},
+{
+  "_id": {
+    "$oid": "64e33dd52cfb76db98853cf1"
+  },
+  "username": "manos",
+  "surname": "tzigkounakis",
+  "email": "manos@gmail.com",
+  "password": "1234",
+  "date_of_birth": "1990-01-01"
+},
+{
+  "_id": {
+    "$oid": "64e349c82cfb76db98853cf4"
+  },
+  "username": "maria",
+  "surname": "tzigkounakis",
+  "email": "maria@gmail.com",
+  "password": "1234",
+  "date_of_birth": "1990-01-01"
+},
+{
+  "_id": {
+    "$oid": "64e349d12cfb76db98853cf5"
+  },
+  "username": "markos",
+  "surname": "tzigkounakis",
+  "email": "markos@gmail.com",
+  "password": "1234",
+  "date_of_birth": "1990-01-01"
+}]

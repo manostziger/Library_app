@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "64e33e802cfb76db98853cf3"
+  },
+  "title": "Bookk",
+  "author": "John Doe",
+  "published": "2023-08-06",
+  "available": true,
+  "days_reservation": 7,
+  "pages": 300,
+  "summary": "This is a sample book about XYZ."
+},
+{
+  "_id": {
+    "$oid": "64e349ed2cfb76db98853cf6"
+  },
+  "title": "Book of time",
+  "author": "John ",
+  "published": "2023-08-06",
+  "available": false,
+  "days_reservation": 7,
+  "pages": 300,
+  "summary": "This is a sample book about life."
+},
+{
+  "_id": {
+    "$oid": "64e34a052cfb76db98853cf7"
+  },
+  "title": "Book of dead",
+  "author": "hunter",
+  "published": "2023-08-06",
+  "available": false,
+  "days_reservation": 7,
+  "pages": 300,
+  "summary": "This is a sample book......"
+}]
