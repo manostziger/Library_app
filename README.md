@@ -103,7 +103,8 @@
 
 Ο κώδικας βρίσκει πληροφορίες για ένα βιβλίο βάσει του αριθμού του (book_id) και του email του χρήστη. Εμφανίζει βασικές πληροφορίες για το βιβλίο και, αν ο χρήστης είναι διαχειριστής, προσθέτει περισσότερες πληροφορίες σχετικά με τη διαθεσιμότητα και τις κρατήσεις. Αν ο χρήστης δεν βρεθεί ή το βιβλίο δεν βρεθεί, επιστρέφονται αντίστοιχα μηνύματα λάθους.
 
-<img width="1680" alt="Screenshot 2023-08-21 at 1 32 37 PM" src="https://github.com/manostziger/YpoxreotikiErgasiaSept23_E18158_TZIGKOUNAKIS_EMMANOYIL/assets/141725868/e88a46dc-7e94-4e87-ab7c-0331d59d3ce1">
+<img width="1680" alt="Screenshot 2023-08-21 at 1 28 35 PM (1)" src="https://github.com/manostziger/YpoxreotikiErgasiaSept23_E18158_TZIGKOUNAKIS_EMMANOYIL/assets/141725868/fc0a82ad-445a-46f0-9704-3aafea53da8d">
+
 
 
 # Flask Container:
@@ -118,7 +119,8 @@
 Για το τελικό στάδιο του containerization πρέπει να συνδεθούν τα containers του web service και του MongoDB. Για αυτο δημιουργήθηκε το αρχείο docker-compose.yml.
 
 
-<img width="1680" alt="Screenshot 2023-08-21 at 1 32 37 PM" src="https://github.com/manostziger/YpoxreotikiErgasiaSept23_E18158_TZIGKOUNAKIS_EMMANOYIL/assets/141725868/0b5d38c5-fb46-4c33-9727-d388af786745">
+<img width="1680" alt="Screenshot 2023-08-21 at 1 32 37 PM" src="https://github.com/manostziger/YpoxreotikiErgasiaSept23_E18158_TZIGKOUNAKIS_EMMANOYIL/assets/141725868/e88a46dc-7e94-4e87-ab7c-0331d59d3ce1">
+
 
 
 
