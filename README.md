@@ -38,7 +38,7 @@
 
 Ο κώδικας αυτός εκτελεί τη λειτουργία σύνδεσης ενός χρήστη σε ένα σύστημα, ελέγχοντας τα δεδομένα που δόθηκαν και επικοινωνώντας με τη βάση δεδομένων για να επαληθεύσει τον κωδικό πρόσβασης.
 
-<img width="1680" alt="Screenshot 2023-08-21 at 1 20 26 PM" src="https://github.com/manostziger/YpoxreotikiErgasiaSept23_E18158_TZIGKOUNAKIS_EMMANOYIL/assets/141725868/b5166c14-bb66-4d34-8c50-55f003b4c886">
+<img width="1680" alt="Screenshot 2023-08-21 at 1 20 26 PM" src="https://github.com/manostziger/YpoxreotikiErgasiaSept23_E18158_TZIGKOUNAKIS_EMMANOYIL/assets/141725868/87f86332-8e30-43f7-b089-5f41bdc1c328">
 
 # Function 3: Delete χρήστη - def delete_user(user_id):
 
