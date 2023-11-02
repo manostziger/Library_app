@@ -31,7 +31,7 @@
 
 Ο κώδικας αυτός εκτελεί τη λειτουργία προσθήκης νέου χρήστη στη βάση δεδομένων, ελέγχοντας αν το email υπάρχει ήδη στην βάση δεδομένων.
 
-<img width="1680" alt="Screenshot 2023-08-21 at 1 19 02 PM" src="https://github.com/manostziger/YpoxreotikiErgasiaSept23_E18158_TZIGKOUNAKIS_EMMANOYIL/assets/141725868/f4e90f2b-6e02-4edd-811f-6935b6b085cd">
+<img width="1680" alt="Screenshot 2023-08-21 at 1 19 02 PM" src="[https://github.com/manostziger/YpoxreotikiErgasiaSept23_E18158_TZIGKOUNAKIS_EMMANOYIL/assets/141725868/f4e90f2b-6e02-4edd-811f-6935b6b085cd](https://github.com/manostziger/YpoxreotikiErgasiaSept23_E18158_TZIGKOUNAKIS_EMMANOYIL/blob/main/screenshots/Screenshot%202023-08-21%20at%201.19.02%20PM.png)">
 
 
 # Function 2: Login στο σύστημα - def login():
